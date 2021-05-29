@@ -28,7 +28,6 @@
 ![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 <br />
-<br />
 
 ### 💻 Workspace Specs
 ![image](https://img.shields.io/badge/Windows-MSI_GE66%20Raider-0078D6?style=for-the-badge&logo=windows&logoColor=white)
