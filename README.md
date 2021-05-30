@@ -15,17 +15,17 @@
 <br />
 
 ### 🌐 Languages and Tools:
-![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)[]
-![image](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)[]
-![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)[]
-![image](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)[]
-![image](https://img.shields.io/badge/JetBrains%20Rider-000000?style=for-the-badge&logo=JetBrains&logoColor=white)[]
-![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)[]
-![image](https://img.shields.io/badge/Visual_Studio_2020-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)[]
-![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)[]
-![image](https://img.shields.io/badge/Blender%20Octane%20Edition-F5792A?style=for-the-badge&logo=Blender&logoColor=white)[]
-![image](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)[]
-![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)[]
+![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![image](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)
+![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)
+![image](https://img.shields.io/badge/JetBrains%20Rider-000000?style=for-the-badge&logo=JetBrains&logoColor=white)
+![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![image](https://img.shields.io/badge/Visual_Studio_2020-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![image](https://img.shields.io/badge/Blender%20Octane%20Edition-F5792A?style=for-the-badge&logo=Blender&logoColor=white)
+![image](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 
 <br />
 
