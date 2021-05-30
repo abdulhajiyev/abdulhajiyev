@@ -1,6 +1,6 @@
 ### Hi there, I'm Abdul 👋
 
-[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdulhajiyev/)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 
 
 ### 🎧 Spotify Playing
