@@ -42,7 +42,7 @@
 <details><summary>⚡ GitHub Stats
 </summary>
 
-![Abdul Hajiyev's GitHub Stats](https://github-readme-stats-hajiyev.vercel.app/api?username=abdulhajiyev&show_icons=true&hide_border=true)
+![Abdul Hajiyev's GitHub Stats](https://github-readme-stats-hajiyev.vercel.app/api?username=abdulhajiyev&show_icons=true&hide_border=true&theme=dracula)
 
 </details>
 
