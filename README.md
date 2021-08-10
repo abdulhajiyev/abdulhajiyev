@@ -5,8 +5,7 @@
 
 
 ### 🎧 Spotify Playing
-
-[<img src="https://spotifnow.vercel.app/api/spotify" alt="Abdul Hajiyev's Spotify Playing" width="350" />](https://open.spotify.com/user/7nlznwn7jdekvjkzzkp9m4nsy)
+[![Spotify](https://spotifnow.vercel.app/api/spotify)](https://open.spotify.com/user/7nlznwn7jdekvjkzzkp9m4nsy)
 
 ### 📥 Connect with me:
 
