@@ -48,3 +48,6 @@
 
 [instagram]: https://instagram.com/abdulhajiyev
 [linkedin]: https://linkedin.com/in/abdulhajiyev
+
+![Github Activity Graph](https://github-activity-graph-hajiyev.herokuapp.com/graph?username=abdulhajiyev)
+
