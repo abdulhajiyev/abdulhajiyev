@@ -44,10 +44,9 @@
 [instagram]: https://instagram.com/abdulhajiyev
 [linkedin]: https://linkedin.com/in/abdulhajiyev
 
+### ⚡ GitHub Stats
 ![Github Activity Graph](https://github-activity-graph-hajiyev.herokuapp.com/graph?username=abdulhajiyev&theme=react-dark)
 
-<details>
-  <summary>⚡ GitHub Stats</summary>
-  ![Abdul Hajiyev's GitHub Stats](https://github-readme-stats-hajiyev.vercel.app/api?username=abdulhajiyev&show_icons=true&hide_border=true&theme=dracula)
-</details>
+
+![Abdul Hajiyev's GitHub Stats](https://github-readme-stats-hajiyev.vercel.app/api?username=abdulhajiyev&show_icons=true&hide_border=true&theme=dracula)
 
