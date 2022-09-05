@@ -1,32 +1,34 @@
+<div align="center" >
+
 ### Hi there, I'm Abdul 👋
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you</h1>
 
-[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
-
-
-### 🎧 Spotify Playing
+### 🎧 Spotify
 [![Spotify](https://spotifnow.vercel.app/api/spotify)](https://open.spotify.com/user/7nlznwn7jdekvjkzzkp9m4nsy)
 
 ### 📥 Connect with me:
-
-[<img align="left" alt="abdulhajiyev | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img align="left" alt="abdulhajiyev | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-
-<br />
+[<img height=50px alt="abdulhajiyev | LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 ### 🌐 Languages and Tools:
-![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![image](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)
-![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![image](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)
-![image](https://img.shields.io/badge/JetBrains%20Rider-000000?style=for-the-badge&logo=JetBrains&logoColor=white)
-![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![image](https://img.shields.io/badge/Visual_Studio_2020-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![image](https://img.shields.io/badge/Blender%20Octane%20Edition-F5792A?style=for-the-badge&logo=Blender&logoColor=white)
-![image](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+<div style="display: flex; justify-content:center; flex-wrap:wrap">
+<img style="margin: 0 5px 0 5px" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
+<img style="margin: 0 5px 0 5px" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
+<img style="margin: 0 5px 0 5px" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+<img style="margin: 0 5px 0 5px" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
+<img style="margin: 0 5px 0 5px" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+<img style="margin: 0 5px 0 5px" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+
+<img style="margin: 0 5px 0 5px" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+
+<img style="margin: 0 5px 0 5px" width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
+
+<br />
 <br />
 
 ### 💻 Workspace Specs
@@ -35,17 +37,10 @@
 ![image](https://img.shields.io/badge/NVIDIA-RTX%202070%20-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 <br />
-<br />
-
----
-
-
-
-[instagram]: https://instagram.com/abdulhajiyev
-[linkedin]: https://linkedin.com/in/abdulhajiyev
 
 ### ⚡ GitHub Stats
 ![Abdul Hajiyev's GitHub Stats](https://github-readme-stats-hajiyev.vercel.app/api?username=abdulhajiyev&show_icons=true&hide_border=true&theme=dracula)
 
-![snake gif](https://github.com/abdulhajiyev/abdulhajiyev/blob/output/github-contribution-grid-snake.gif)
-
+[instagram]: https://instagram.com/abdulhajiyev
+[linkedin]: https://linkedin.com/in/abdulhajiyev
+</div>
