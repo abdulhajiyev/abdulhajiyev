@@ -31,13 +31,6 @@
 <br />
 <br />
 
-### 💻 Workspace Specs
-![image](https://img.shields.io/badge/Windows-MSI_GE66%20Raider-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![image](https://img.shields.io/badge/Intel-Core_i7_10750H-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![image](https://img.shields.io/badge/NVIDIA-RTX%202070%20-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-<br />
-
 ### ⚡ GitHub Stats
 ![Abdul Hajiyev's GitHub Stats](https://github-readme-stats-hajiyev.vercel.app/api?username=abdulhajiyev&show_icons=true&hide_border=true&theme=dracula)
 
