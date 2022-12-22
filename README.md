@@ -3,6 +3,8 @@
 ### Hi there, I'm Abdul 👋
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you</h1>
 
+[![An image of @abdulhajiyev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abdulhajiyev)](https://holopin.io/@abdulhajiyev)
+
 ### 🎧 Spotify
 [![Spotify](https://spotifnow.vercel.app/api/spotify)](https://open.spotify.com/user/7nlznwn7jdekvjkzzkp9m4nsy)
 
