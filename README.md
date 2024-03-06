@@ -5,15 +5,6 @@
 
 ![SKILLS](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,tailwind,react,remix,next,mongodb,postgres,docker,linux,git,vscode,figma&perline=8)<br/>
 
-### ⚡ Current Activity
-[![Discord Presence](https://lanyard.cnrad.dev/api/336087749981372416)](https://discord.com/users/336087749981372416)
-
-<!-- GitHub Stats -->
-<!--
-### ⚡ GitHub Stats
-![Abdul Hajiyev's GitHub Stats](https://github-readme-stats-hajiyev.vercel.app/api?username=abdulhajiyev&show_icons=true&hide_border=true&theme=nord)[](url)
--->
-
 ### 🎧 Spotify
 [![Spotify](https://spotifnow.vercel.app/api/spotify)](https://open.spotify.com/user/7nlznwn7jdekvjkzzkp9m4nsy)
 
